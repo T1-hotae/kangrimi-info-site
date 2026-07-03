@@ -1,7 +1,7 @@
 # 강림이 웹
 
 <p align="center">
-  <img src="public/images/main-screenshot.png" alt="강림이 앱 대표 화면" width="360" />
+  <img src="public/images/main-screenshot.png" alt="강림이 앱 대표 화면" width="100%" />
 </p>
 
 강남대학교 공지 통합 앱 **강림이**의 공식 웹사이트입니다.
